@@ -41,4 +41,4 @@ programming to perform salary calculations efficiently.
 
 ## Author
 
-Your Name
+Akshitha Sanu
